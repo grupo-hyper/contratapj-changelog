@@ -1,31 +1,69 @@
-{
-  "entries": [
-    {
-      "id": "2026-08-03-novidades-das-ultimas-semanas",
-      "date": "2026-08-03",
-      "title": "Tudo que chegou nas últimas semanas",
-      "description": "Fizemos um monte de melhorias na plataforma pra facilitar o seu dia a dia. Veja as principais:",
-      "listType": "numbered",
-      "items": [
-        "Central de novidades: é esta janelinha que você está lendo. Agora as novidades da plataforma aparecem direto na sua tela inicial, pra você não perder nenhuma atualização.",
-        "Guia de configuração no seu painel: um checklist dos primeiros passos — cadastro da empresa, chave Pix, primeiro prestador, primeiro contrato, primeira sugestão de nota e primeira remessa de pagamento, além de conectar seu ERP. Acompanhe seu progresso e reabra quando quiser pelo botão no canto superior direito.",
-        "Filtro avançado na listagem de notas fiscais: filtre por status de aprovação, status de pagamento, área, atividade e prestador (todos com seleção múltipla). Selecione notas em massa com resumo da seleção, aprove ou reprove informando o motivo e pré-visualize a NFS-e e o PDF sem sair da tela.",
-        "Sugestão de notas em massa mais robusta: planilha-modelo atualizada e novas validações no upload, pra importar as sugestões de várias notas de uma vez cometendo menos erros.",
-        "Coluna Guia DAS na listagem de prestadores: acompanhe o status do DAS de cada prestador MEI direto na listagem, sem precisar abrir um por um.",
-        "Emissão de notas pronta para a Reforma Tributária: novos campos já disponíveis no formulário de emissão, preparando você para as mudanças fiscais.",
-        "Nova listagem de contratos, mais rápida: carregamento com cache, além de filtros, ordenação e histórico de status dos contratos direto na tela.",
-        "Emissão de nota e CNAB (Itaú) mais fáceis: layout do modal de emissão reorganizado e melhorias na geração e na prévia do arquivo CNAB do Itaú, com validação dos dados bancários.",
-        "Detalhe da remessa de pagamento completo: agora mostra todas as notas da remessa, sem cortar pela paginação.",
-        "Novos relatórios: relatório de prestadores/colaboradores para você acompanhar melhor a sua operação.",
-        "Suporte a prestadores internacionais: a plataforma agora comporta prestadores de fora do país no seu fluxo.",
-        "Mais estabilidade e ajustes finos: upload de contratos já assinados corrigido, bloqueio de visualização e download de notas com erro, e aviso claro quando a importação em massa de colaboradores falha."
-      ]
-    },
-    {
-      "id": "2026-08-03-boas-vindas",
-      "date": "2026-08-03",
-      "title": "Central de novidades no ar",
-      "description": "Agora as novidades da plataforma aparecem aqui pra você, direto na tela inicial."
-    }
-  ]
-}
+  {
+    "entries": [
+      {
+        "id": "2026-08-10-novidades-de-agosto",
+        "date": "2026-08-10",
+        "title": "Novidades de agosto",
+        "description": "Chegou um monte de melhoria pra deixar sua rotina mais fácil e mais segura. Veja o que preparamos:",
+        "listType": "numbered",
+        "items": [
+          "Tour guiado da plataforma: um passo a passo interativo que te mostra os principais fluxos direto na tela, pra você conhecer tudo sem se perder. É só seguir as
+  dicas que aparecem.",
+          "Guia de configuração no seu painel inicial: um checklist dos primeiros passos pra deixar sua conta pronta pra usar, com acompanhamento do seu progresso e a opção
+  de reabrir quando quiser.",
+          "Canal de sugestão de novidades: agora você envia suas ideias e o que gostaria de ver na plataforma por um formulário (com até 5 imagens), e o nosso time recebe
+  na hora.",
+          "Avisos mais claros na emissão de notas de MEI: quando os sistemas do governo estão instáveis, a plataforma te avisa na hora e evita tentativas que já iriam
+  falhar, pra você não perder tempo.",
+          "Validação da senha do Portal do Contribuinte: antes de emitir, a plataforma confere se a senha do portal está correta, avisa quando está incorreta e não insiste
+  em novas tentativas até você atualizar.",
+          "Consultas de Guia DAS mais rápidas: otimizamos a busca das guias, então o status aparece mais rápido e com menos falhas.",
+          "CNAB mais seguro: agora só notas aprovadas entram no arquivo de remessa (CNAB), evitando incluir no pagamento uma nota que ainda não foi validada.",
+          "Correção nos relatórios de Matriz e filiais: ajustamos o agrupamento quando o relatório junta matriz e filiais, então os números saem certos.",
+          "Nova tela inicial do contratante: um painel repaginado com visão geral da sua operação e atalhos pro que você mais usa (disponível também para operadores).",
+          "Nova home do prestador e marketplace atualizado: seus prestadores ganham uma tela inicial no estilo marketplace, com ofertas e serviços, além de ajustes na
+  versão para celular.",
+          "Novo layout de emissão de notas (Reforma Tributária): formulário de emissão reorganizado e já com os campos da Reforma Tributária, pra ficar mais simples emitir
+  e se adequar às novas regras fiscais.",
+          "Oferta de contabilidade: um novo aviso apresenta a nossa solução de contabilidade pra quem pode se beneficiar, com tudo reunido em um lugar só.",
+          "Escolha do tomador ao anexar nota (PJ): ao anexar uma nota, o prestador PJ agora seleciona para qual tomador ela vai, evitando confusão quando ele atende mais de
+  uma empresa.",
+          "Nova Central de Notificações: um espaço só seu com os avisos importantes da plataforma reunidos em um lugar, pra você não perder nada.",
+          "Correção: operadores agora conseguem excluir um comprovante de pagamento anexado por engano, sem precisar acionar o suporte."
+        ]
+      },
+      {
+        "id": "2026-08-03-novidades-das-ultimas-semanas",
+        "date": "2026-08-03",
+        "title": "Tudo que chegou nas últimas semanas",
+        "description": "Fizemos um monte de melhorias na plataforma pra facilitar o seu dia a dia. Veja as principais:",
+        "listType": "numbered",
+        "items": [
+          "Central de novidades: é esta janelinha que você está lendo. Agora as novidades da plataforma aparecem direto na sua tela inicial, pra você não perder nenhuma
+  atualização.",
+          "Guia de configuração no seu painel: um checklist dos primeiros passos — cadastro da empresa, chave Pix, primeiro prestador, primeiro contrato, primeira sugestão
+  de nota e primeira remessa de pagamento, além de conectar seu ERP. Acompanhe seu progresso e reabra quando quiser pelo botão no canto superior direito.",
+          "Filtro avançado na listagem de notas fiscais: filtre por status de aprovação, status de pagamento, área, atividade e prestador (todos com seleção múltipla).
+  Selecione notas em massa com resumo da seleção, aprove ou reprove informando o motivo e pré-visualize a NFS-e e o PDF sem sair da tela.",
+          "Sugestão de notas em massa mais robusta: planilha-modelo atualizada e novas validações no upload, pra importar as sugestões de várias notas de uma vez cometendo
+  menos erros.",
+          "Coluna Guia DAS na listagem de prestadores: acompanhe o status do DAS de cada prestador MEI direto na listagem, sem precisar abrir um por um.",
+          "Emissão de notas pronta para a Reforma Tributária: novos campos já disponíveis no formulário de emissão, preparando você para as mudanças fiscais.",
+          "Nova listagem de contratos, mais rápida: carregamento com cache, além de filtros, ordenação e histórico de status dos contratos direto na tela.",
+          "Emissão de nota e CNAB (Itaú) mais fáceis: layout do modal de emissão reorganizado e melhorias na geração e na prévia do arquivo CNAB do Itaú, com validação dos
+  dados bancários.",
+          "Detalhe da remessa de pagamento completo: agora mostra todas as notas da remessa, sem cortar pela paginação.",
+          "Novos relatórios: relatório de prestadores/colaboradores para você acompanhar melhor a sua operação.",
+          "Suporte a prestadores internacionais: a plataforma agora comporta prestadores de fora do país no seu fluxo.",
+          "Mais estabilidade e ajustes finos: upload de contratos já assinados corrigido, bloqueio de visualização e download de notas com erro, e aviso claro quando a
+  importação em massa de colaboradores falha."
+        ]
+      },
+      {
+        "id": "2026-08-03-boas-vindas",
+        "date": "2026-08-03",
+        "title": "Central de novidades no ar",
+        "description": "Agora as novidades da plataforma aparecem aqui pra você, direto na tela inicial."
+      }
+    ]
+  }
