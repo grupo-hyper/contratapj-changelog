@@ -1,6 +1,26 @@
 {
   "entries": [
     {
+      "id": "2026-08-24-mais-novidades-de-agosto",
+      "date": "2026-08-24",
+      "title": "Mais novidades de agosto",
+      "description": "Fechamos agosto com mais uma leva de melhorias pra deixar sua operação mais completa e sem sustos. Confira:",
+      "listType": "numbered",
+      "items": [
+        "Comparação de nota e sugestão em um novo modal: agora você confere lado a lado o que foi sugerido e o que veio na nota, pra aprovar com mais segurança.",
+        "Cadastro de prestadores em massa repaginado: uma nova tela pra importar vários PJs de uma vez, com edição direto na linha da planilha e avisos apontando erros de importação e o que precisa ajustar antes de concluir.",
+        "Exclusão de prestador: além de inativar, agora você pode excluir um prestador de forma permanente. Atenção: a ação é irreversível.",
+        "Listagem de prestadores focada nos ativos: por padrão você vê só os prestadores ativos, com um filtro pra acessar os inativos quando precisar, deixando mais claro quem está na sua operação do dia a dia.",
+        "Guia DAS atualizada sozinha: uma consulta automática roda todo mês e já preenche a coluna Guia DAS na listagem de prestadores, sem você precisar buscar manualmente.",
+        "E-mails adicionais de notificação: antes só o usuário master recebia os avisos; agora você pode cadastrar outros e-mails pra receberem as notificações também.",
+        "Nova versão do 'Colabore com a gente': o canal de sugestões ganhou uma repaginada pra ficar ainda mais fácil enviar suas ideias pro nosso time.",
+        "Mais campos na planilha de sugestão de nota: incluímos os dados de pagamento com preenchimento automático (autofill), pra montar suas sugestões mais rápido.",
+        "Reaprovar nota reprovada por engano: se uma nota foi reprovada sem querer, agora dá pra reaprovar, desde que ela não esteja paga nem em uma remessa ativa.",
+        "Reprovação de notas mais tranquila: melhoramos o comportamento quando é preciso corrigir manualmente um erro na reprovação de uma nota.",
+        "Correção no cálculo do valor da sugestão: ajustamos o cálculo pra o valor sair sempre certo nas suas sugestões de nota."
+      ]
+    },
+    {
       "id": "2026-08-10-novidades-de-agosto",
       "date": "2026-08-10",
       "title": "Novidades de agosto",
