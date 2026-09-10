@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": "2026-09-10-novidades-de-setembro",
+      "date": "2026-09-10",
+      "title": "Novidades de setembro",
+      "description": "Começamos setembro com uma leva de melhorias pra deixar o seu dia a dia mais completo, flexível e seguro. Confira:",
+      "listType": "numbered",
+      "items": [
+        "Filtro por período na listagem de notas: agora você filtra suas notas por data direto na listagem, pra encontrar rápido o que precisa.",
+        "Anexar nota pelo contratante: antes só o prestador anexava a nota; agora você também pode anexar a nota fiscal em nome de um PJ, sem depender dele.",
+        "Upload do XML da NFS-e: agora dá pra subir o arquivo XML da nota, deixando seus registros mais completos e confiáveis.",
+        "Nova aba de Documentos: um espaço pra reunir e adicionar os documentos em um lugar só, com acesso mais fácil quando você precisar.",
+        "Data de criação nos contratos: uma nova coluna mostra quando cada contrato foi criado, tanto na visão do contratante quanto na do prestador.",
+        "Cadastro de prestador mais flexível: o CNPJ virou opcional no cadastro manual e o PJ pode informar CNPJ e modalidade direto no auto-cadastro ou na edição do perfil.",
+        "Validação da senha do gov.br: antes de emitir, a plataforma confere se a sua senha do gov.br está correta e evita tentativas que já iriam falhar, avisando pra você atualizar quando precisar.",
+        "Código de serviço opcional na sugestão individual: você monta a sugestão de nota mesmo sem ter o código de serviço em mãos.",
+        "Aviso de instabilidade no CNAB de Bradesco e Santander: quando esses bancos estão indisponíveis, a plataforma avisa na hora pra você não perder tempo.",
+        "Guia DAS e declaração do MEI mais espertas: a consulta atualiza a guia quando precisa e te avisa quando o serviço do governo está indisponível, sem travar sua rotina.",
+        "Limite diário de remessa: a tela de emissão agora respeita um limite de remessas por dia, deixando o pagamento mais seguro.",
+        "Senhas mais seguras: novas regras de força de senha e, ao trocar a senha, o link de redefinição antigo é invalidado na hora.",
+        "Mais estabilidade e ajustes finos: melhoramos a sugestão da competência do mês atual, as notas pendentes na home, o status do certificado digital, os relatórios de matriz e filiais e as mensagens no cadastro de prestador — além de vários ajustes de estabilidade no dia a dia."
+      ]
+    },
+    {
       "id": "2026-08-24-mais-novidades-de-agosto",
       "date": "2026-08-24",
       "title": "Mais novidades de agosto",
